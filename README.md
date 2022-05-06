@@ -84,39 +84,42 @@ Child poverty and hunger have also increased during the pandemic. In sub-Saharan
 -Digitizing emergency response relies on several different systems, including digital identification, mobile penetration, and cash-in/cash-out (CICO) agent networks. If these interconnected systems are not well functioning, it may be difficult to implement a digital emergency support. Thus, the government needs to establish these systems and necessary infrastructure prior to an emergency.
 **Gender Gaps**
 -Digitizing emergency response could exacerbate gender gaps or leave out women. Women are less likely to have access to identification, have lower levels of mobile phone ownership, and have lower levels of financial literacy. Thus, emergency response that ignores these gaps could inadvertently disadvantage women.
+[Diagram]![diagram](https://user-images.githubusercontent.com/101309741/167155826-66c2558a-66c4-4b22-981d-ce116cd270ae.png)
 
 
 >Governments around the world are leveraging the spread of digital technologies to improve their capacity to serve their citizens and residents.
-Social grants are being directly transferred to bank or mobile money accounts, and other public services also now utilize digital identification and digital financial channels. 						
-Evidence suggests that digitization of government services can benefit governments, citizens and residents, and the private sector 
+Social grants are being directly transferred to bank or mobile money accounts, and other public services also now utilize digital identification and digital financial channels. 		
+
+-Evidence suggests that digitization of government services can benefit governments, citizens and residents, and the private sector 
 if digitization makes services more convenient and easy to control. 						
-The road to digitization is not without challenges, 
-including the issue of building on legacy systems, outmoded financial regulation, the need to protect the personal information of individuals, and potential for digitization to lead to exclusion errors and widening of the digital divide. There is also risk that governments can misuse the technology to yield excessive control over their citizens and residents. 						
-Digitization Reaps Massive Social & Economic Benefits 
-Economic Growth 
-Fiscal Savings, i.e., $110 Billion in Annual Savings from Reduced Leakage
- Social Safety Nets and Public Services
-Financial Inclusion
-Transparency & Security					
-Emergency Response 
-Emergency Social Protection Benefits
-Social protection transfers and in-kind benefits distributed quickly and targeted toward populations affected by emergencies such as natural disasters, epidemics, pandemics, sector-specific shocks, and food insecurity.
-Payments to Frontline Emergency Responders and Healthcare Workers
-Salaries and hazard incentives distributed to individuals involved in direct service provision related to emergencies such as vaccination campaigns
+>The road to digitization is not without challenges, 
+including the issue of building on legacy systems, outmoded financial regulation, the need to protect the personal information of individuals, and potential for digitization to lead to exclusion errors and widening of the digital divide. There is also risk that governments can misuse the technology to yield excessive control over their citizens and residents. 	
+
+-Digitization Reaps Massive Social & Economic Benefits 
+-Economic Growth 
+-Fiscal Savings, i.e., $110 Billion in Annual Savings from Reduced Leakage
+-Social Safety Nets and Public Services
+-Financial Inclusion
+-Transparency & Security					
+-Emergency Response 
+-Emergency Social Protection Benefits
+-Social protection transfers and in-kind benefits distributed quickly and targeted toward populations affected by emergencies such as natural disasters, epidemics, pandemics, sector-specific shocks, and food insecurity.
+-Payments to Frontline Emergency Responders and Healthcare Workers
+-Salaries and hazard incentives distributed to individuals involved in direct service provision related to emergencies such as vaccination campaigns
 Monitoring
-Tracking movement of key population groups and their access to government benefits as well as the efficiency of government benefit distribution.
-Definitions and Overview
-EmergencySocialProtectionBenefits
-WagestoHealthcareWorkersand Other Emergency Responders
-Monitoring
-Benefits to Governments
-Improve Targeting and Reach
-Disburse Benefits Quickly
-Improve Efficiency
-Stabilize Macro-economy
-Benefits to Individuals
-Receive Emergency Benefits in a Timely Manner
-Improve Efficiency and Security of Benefits
-Smooth Consumption and Resilience to Shocks
+-Tracking movement of key population groups and their access to government benefits as well as the efficiency of government benefit distribution.
+# Definitions and Overview
+- Emergency Social Protection Benefits
+- Wages to Health care Workers and Other Emergency Responders
+- Monitoring
+# Benefits to Governments
+- Improve Targeting and Reach
+- Disburse Benefits Quickly
+- Improve Efficiency
+- Stabilize Macro-economy
+- Benefits to Individuals
+- Receive Emergency Benefits in a Timely Manner
+- Improve Efficiency and Security of Benefits
+- Smooth Consumption and Resilience to Shocks
 
 
