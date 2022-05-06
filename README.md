@@ -3,18 +3,18 @@
 
 A centeralised platform for disbursing funds in emergencies
 
-[ The Link to the Prototype ] (https://www.figma.com/proto/3vSvUWj7rd89t9HexkxD7h/EFDS?page-id=0%3A1&node-id=6%3A281&viewport=241%2C48%2C0.14&scaling=min-zoom&starting-point-node-id=6%3A281)
+[The Link to the Prototype] (https://www.figma.com/proto/3vSvUWj7rd89t9HexkxD7h/EFDS?page-id=0%3A1&node-id=6%3A281&viewport=241%2C48%2C0.14&scaling=min-zoom&starting-point-node-id=6%3A281)
 
 ------------------------------------------------------------------------------------
-#Screenshot
+# Screenshot
 <img width="1440" alt="Screenshot 2022-05-06 at 7 35 49 PM" src="https://user-images.githubusercontent.com/101309741/167153401-a312e90c-bd94-4f2e-881b-da47d4f8d0da.png">
 
 
 ------------------------------------------------------------------------------------
 
-#Abstract
+# Abstract
 
-**The Problem** - Govt Grant Disbursal System
+# The Problem - Govt Grant Disbursal System
 
 **Governments face immense challenges in responding to emergencies**
 -The COVID-19 pandemic has significantly affected employment and living standards. The World Bank’s rapid phone surveys show that, on average, 20%6 of households report receiving assistance, but the rate of assistance widely varies across countries. For example, 70% of Indonesians surveyed report receiving assistance, while fewer than 10% of individuals in sub- Saharan Africa report receiving assistance.
